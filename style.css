@@ -4,7 +4,7 @@
     text-align: center;
     color: hsl(0, 0%, 100%);
     position: fixed;  
-    bottom: 10px;      
+    bottom: 5px;      
     left: 50%;
     transform: translateX(-50%); /* center it horizontally */
     z-index: 10;
@@ -229,5 +229,7 @@ width: 100%;
 }
 .segement-overlay_top{
     line-height: 2.1;
-}
+}.attribution {
+    bottom: 0;      
+    }
 }
