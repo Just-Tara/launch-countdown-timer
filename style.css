@@ -229,5 +229,7 @@ width: 100%;
 }
 .segement-overlay_top{
     line-height: 2.1;
-}
+}.attribution {
+    bottom: 3px;      
+    }
 }
